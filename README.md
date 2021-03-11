@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='IGwalkthroughgif' title='Video Walkthrough' width='350' alt='Video Walkthrough' />
+<img src='IGwalkthrough.gif' title='Video Walkthrough' width='350' alt='Video Walkthrough' />
 
 
 ## Notes
